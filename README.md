@@ -1,2 +1,4 @@
-# hello_world
-A place where to store ideas, resources, or even share and discuss things with others
+# SedDynTools
+A collection functions for sediment dynamics analysis in MATLAB.
+
+
